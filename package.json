@@ -31,7 +31,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
     "react-notion-x": "^6.16.0",
-    "@waline/react": "^2.0.0"
+    "@waline/react": "^3.5.6"
   },
   "devDependencies": {
     "@types/gtag.js": "^0.0.12",
